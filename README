@@ -1,0 +1,64 @@
+Oasis-Infobyte Projects
+1. Landing Page Website
+Project Overview
+
+This is a responsive landing page for a fictional institution. The page includes a navigation bar, a carousel, a welcome section, a notice board, and various other sections like Programs, Admissions, Testimonials, Events, and Contact Information.
+Features
+
+    Responsive Design: Optimized for both desktop and mobile devices.
+    Carousel: Slideshow feature to showcase important images.
+    Dynamic Content: Includes various sections to display important information such as notices and upcoming events.
+    Stylish Buttons and Links: CSS-styled buttons and links for an enhanced user experience.
+
+Technologies Used
+
+    HTML5
+    CSS3
+    Bootstrap 4
+    JavaScript
+
+Usage
+
+Clone this repository and open index.html in your browser to view the landing page.
+2. Portfolio Website
+Project Overview
+
+This portfolio website showcases the projects and skills of an individual. It includes sections such as About, Skills, Projects, and Contact. The site is designed to be a professional and clean presentation of your work.
+Features
+
+    Personal Information Section: Displays your name, profession, and a brief bio.
+    Skills Section: Lists your technical skills and proficiencies.
+    Projects Showcase: Highlights your completed projects with descriptions and links.
+    Contact Form: Allows visitors to send you messages directly from the website.
+
+Technologies Used
+
+    HTML5
+    CSS3
+    JavaScript
+
+Usage
+
+Clone this repository and open portfolio.html in your browser to view the portfolio website.
+3. Temperature Converter
+Project Overview
+
+This is a simple temperature converter application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. The application is designed to be user-friendly and provides instant conversion results.
+Features
+
+    Celsius to Fahrenheit/Kelvin Conversion
+    Fahrenheit to Celsius/Kelvin Conversion
+    Kelvin to Celsius/Fahrenheit Conversion
+
+Technologies Used
+
+    HTML5
+    CSS3
+    JavaScript
+
+Usage
+
+Clone this repository and open temp_converter.html in your browser to use the temperature converter.
+Repository
+
+All the projects are available in this repository: Oasis-Infobyte.
