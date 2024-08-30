@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.slideshow-container {
+    position: relative;
+    max-height: 800px; 
+    overflow: hidden;
+}
+
+.slideshow-slide {
+    display: none;
+    text-align: center;
+    padding: 5px;
+}
+
+.slideshow-slide img {
+    height: auto;
+    margin-bottom: 100%;
+}
+
+.slideshow-text {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 400px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.bold-text {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.welcome-section {
+    color: #800000;
+    text-align: center;
+    border-radius: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    position: relative;
+} 
+.d-flex {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+.enrol-button {
+    background-color: #800000;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.enrol-button:hover {
+    background-color: #f1f1f1;
+}
+
+h3 {
+    color: #800000;
+    text-align: center;
+}
+
+#about {
+    background-color: #F8EDED;
+    color: #800000;
+    text-align: center;
+    padding: 70px;
+    border-color: #800000;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.section {
+    flex: 1;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+#programs, #admissions, #testimonials {
+    background-color: #800000;
+    color: #F8EDED;
+    text-align: center;
+}
+
+.notices-container {
+    color: #800000;
+    border-radius: 10px;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    margin-left: 20px;
+} 
+
+.notices-header {
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.notices-header img {
+    width: 20px;
+    height: 20px;
+}
